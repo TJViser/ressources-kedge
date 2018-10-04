@@ -39,6 +39,9 @@ _Ressources Design_
      https://www.flickr.com
      https://unsplash.com
      https://photos.icons8.com
+     https://www.pexels.com/
+     https://www.reshot.com
+     https://www.pixabay.com
 
 🌏 _Cool Maps_
 
