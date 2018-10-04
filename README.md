@@ -16,6 +16,7 @@ _Ressources Design_
      https://fonts.google.com/
      http://www.getthefont.com/
      https://www.myfonts.com/
+     https://fontsinuse.com/
 
 🤓 _Code Snippets_
 
