@@ -2,47 +2,48 @@
 Some links for students
 
 
-*Ressources Design*
+_Ressources Design_
 
-:crayon_de_couleur: *Couleurs*
+✏️ _Couleurs_
 
-     - https://www.coolors.co
-     - http://colorhunt.co/
-     - https://www.uigradients.com
-     - https://coolbackgrounds.io
+     https://www.coolors.co
+     http://colorhunt.co/
+     https://www.uigradients.com
+     https://coolbackgrounds.io
 
-:voiture_de_police_de_face: *Fonts*
+ ✒️ _Fonts_
 
-     - https://fonts.google.com/
-     - http://www.getthefont.com/
-     - https://www.myfonts.com/
+     https://fonts.google.com/
+     http://www.getthefont.com/
+     https://www.myfonts.com/
 
-:intello: *Code Snippets*
+🤓 _Code Snippets_
 
-     - https://www.codepen.io
+     https://www.codepen.io
 
-:tête_qui_explose: *Inspiration*
+👩‍🎨 _Inspiration_
 
-     - https://dribbble.com
-     - https://www.awwwards.com
-     - https://uimovement.com
+     https://dribbble.com
+     https://www.awwwards.com
+     https://uimovement.com
 
-:soucoupe_volante: *Icones*
+🔎 _Icones_
 
-     - https://nucleoapp.com
-     - http://www.flaticon.com/
-     - https://thenounproject.com/
+     https://nucleoapp.com
+     http://www.flaticon.com/
+     https://thenounproject.com/
 
-:parc_national: *Images*
+🏞 _Images_
 
-     - https://www.flickr.com
-     - https://unsplash.com
-     - https://photos.icons8.com
+     https://www.flickr.com
+     https://unsplash.com
+     https://photos.icons8.com
 
-:amériques: *Cool Maps*
+🌏 _Cool Maps_
 
-     - https://snazzymaps.com
+     https://snazzymaps.com
 
-:parfait: *Must Read*
+👌 _Must Read_
 
-     - https://goodui.org/
+     https://goodui.org/
+     https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632
