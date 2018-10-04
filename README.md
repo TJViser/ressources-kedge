@@ -10,6 +10,7 @@ _Ressources Design_
      http://colorhunt.co/
      https://www.uigradients.com
      https://coolbackgrounds.io
+     ColorZilla
 
  ✒️ _Fonts_
 
@@ -17,6 +18,7 @@ _Ressources Design_
      http://www.getthefont.com/
      https://www.myfonts.com/
      https://fontsinuse.com/
+     Font Face Ninja
 
 🤓 _Code Snippets_
 
